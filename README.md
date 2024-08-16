@@ -1,6 +1,6 @@
-# Sampath Food City (PVT) Ltd - Sales Data Analysis System
+# Sales Data Analysis System
 
-This command-line interface-based sales data analysis system has been developed for Sampath Food City (PVT) Ltd, one of the largest supermarket networks in Sri Lanka. The system is designed to automate and improve the monthly sales data analysis process, eliminating inefficiencies and errors associated with the company's previous manual system. It is developed using Python and utilizes a strategy-based approach for different types of analyses. 
+This command-line interface-based sales data analysis system has been developed for a large supermarket network. The system is designed to automate and enhance the monthly sales data analysis process, addressing inefficiencies and errors that existed in the previous manual system. It is built using Python and implements a strategy-based approach to perform various types of sales analyses efficiently.
 
 ## Key Features:
 The system provides the following key functionalities:
